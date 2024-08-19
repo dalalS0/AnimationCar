@@ -1,0 +1,8 @@
+<!-- res/anim/move_left.xml -->
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <translate
+        android:fromXDelta="61%p"
+        android:toXDelta="0"
+        android:duration="8000"
+        android:repeatCount="infinite" />
+</set>
